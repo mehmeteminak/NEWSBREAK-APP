@@ -9,7 +9,7 @@ import UIKit
 import WebKit
 
 class newSourceWebSiteVC: UIViewController {
-    var urlRaw = "https://youtube.com"
+   
     
     @IBOutlet weak var newWV: WKWebView!
     
